@@ -1,0 +1,10 @@
+# Publish only the explicitly approved portfolio materials.
+*
+!/.gitignore
+!/README.md
+!/PUBLIC_SCOPE.md
+!/assets/
+/assets/*
+!/assets/cover.svg
+!/assets/scenarios.svg
+!/assets/menu-avatar.jpg
